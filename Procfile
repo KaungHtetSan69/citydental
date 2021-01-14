@@ -1,1 +1,1 @@
-web: gunicorn CDC.wsgi
+web: gunicorn citydental.wsgi
