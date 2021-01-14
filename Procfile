@@ -1,1 +1,1 @@
-web : gunicorn citydental.wsgi
+web:gunicorn citydental.wsgi
